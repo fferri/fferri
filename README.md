@@ -2,6 +2,8 @@
 <p><em>Education: Ph.D. in Artificial Intelliigence and Robotics</em><br/>
 <em>Software & Robotics Engineer at <a href="https://coppeliarobotics.com">Coppelia Robotics</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 
+You can sponsor my open-source work at [GitHub Sponsors](https://github.com/sponsors/fferri/).
+
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fferri.fferri&color=00cf00)
 [![Linkedin: fferri](https://img.shields.io/badge/-fferri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fferri/)](https://www.linkedin.com/in/fferri/)
 
