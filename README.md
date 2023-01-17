@@ -4,7 +4,6 @@
 
 You can sponsor my open-source work at [GitHub Sponsors](https://github.com/sponsors/fferri/).
 
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=fferri.fferri&color=00cf00)
 [![Linkedin: fferri](https://img.shields.io/badge/-fferri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fferri/)](https://www.linkedin.com/in/fferri/)
 
 ### Languages and Tools:
